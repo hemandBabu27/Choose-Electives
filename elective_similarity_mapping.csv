@@ -1,0 +1,24 @@
+Course code,Elective,Semester,Basket,Topic-overlap estimate (%),Mapped E&R core courses
+24ERE614,Bio-signal processing,6,Professional Elective I,78,24ERT402 Signals & Systems; 24ERT305 Sensor & Sensor Circuits
+24ERE624,Introduction to FPGA,6,Professional Elective I,88,24ERJ303 Digital Electronics; 24ERP602 Embedded System Design
+24ERE634,Computer graphics,6,Professional Elective I,61,24MAP301 Linear Algebra; 24ERP304 Algorithms; 24ESP204 Programming
+24ERE644,Introduction to Data science,6,Professional Elective I,76,24ERJ502 DBMS; 24ERT503 AI; 24ESP204 Programming
+24ERE654,Wireless networks and communication,6,Professional Elective I,91,24ERP601 Computer Networks; 24ERT402 Signals & Systems
+24ERE664,Renewable and distributed energy systems,6,Professional Elective I,82,24ERP702 Energy Systems; 24ERP403 Electrical Technology
+24ERE615,Bio instrumentation,6,Professional Elective II,75,24ERT305 Sensors; 24ERT402 Signals & Systems
+24ERE625,Robotics and automation,6,Professional Elective II,84,24ERP602 Embedded Systems; 24ERT501 Control Systems
+24ERE635,Mobile computing,6,Professional Elective II,87,24ERP601 Networks; 24ERP504 OS; 24ERP407 Java
+24ERE645,Biology for engineers,6,Professional Elective II,28,24ERT305 Sensors; 24ERT402 Signals & Systems
+24ERE655,Electrical power quality and reliability,6,Professional Elective II,86,24EST332 Network Theory; 24ERP403 Electrical Technology
+24ERE713,E Mobility,7,Professional Elective III,89,24ERP702 Energy Systems; 24ERT603 Power Electronics
+24ERE723,Modern optimization Techniques,7,Professional Elective III,73,24MAP301 Linear Algebra; 24ERT503 AI; 24ERP304 Algorithms
+24ERE733,Design and analysis of Algorithms,7,Professional Elective III,94,24ERP304 Algorithms; 24ESP204 Programming; 24ERP407 Java
+24ERE743,Machine Learning for smart grids,7,Professional Elective III,86,24ERT503 AI; 24ERP702 Energy Systems; 24ERT501 Control Systems
+24ERE753,Edge computing,7,Professional Elective III,88,24ERP601 Networks; 24ERP602 Embedded Systems; 24ERP504 OS
+24ERE763,Power electronics for renewable energy system,7,Professional Elective III,93,24ERT603 Power Electronics; 24ERP702 Energy Systems
+24ERE811,Big data Analysis,8,Professional Elective IV,85,24ERJ502 DBMS; 24ERT503 AI; 24ESP204 Programming
+24ERE821,Cloud computing,8,Professional Elective IV,91,24ERP601 Networks; 24ERP504 OS; 24ERJ502 DBMS
+24ERE831,R programming,8,Professional Elective IV,69,24ESP204 Programming; 24ERJ502 DBMS; 24MAP301 Mathematics
+24ERE841,Natural language processing,8,Professional Elective IV,82,24ERT503 AI; 24ESP204 Programming; 24ERJ502 DBMS
+24ERE851,Artificial Intelligence with Python,8,Professional Elective IV,92,24ERT503 AI; 24ESP204 Programming; 24ERP304 Algorithms
+24ERE861,Grid integration of renewable energy systems,8,Professional Elective IV,90,24ERP702 Energy Systems; 24ERT603 Power Electronics; 24EST332 Network Theory
